@@ -19,6 +19,7 @@ live demo
 ## Installation:
 - clone the repository
 - run `yarn`
+- update config/config.json
 - run `yarn start`
 
 documentation
